@@ -1,7 +1,15 @@
-# iosgame
+# 🎮 Drop Zone
 
-Hi, welcome to Drop Zone! This was my first ever major coding project, created on the Unity Engine. It was published to the App Store around Aug of 2020, it no longer is on the app store. This project really allowed me to explore game development and coding as a whole. Sparking my interest in the field. 
+Welcome to **Drop Zone!** 🚀 This was my **first major coding project**, developed using the **Unity Engine** and published on the **App Store** in August 2020.  
+Although it's no longer available for download, this project played a **crucial role in sparking my passion for game development and programming**.  
 
+## 🛠️ About the Project  
+- 📱 **First Published Game** – Originally launched on the **App Store**.  
+- 🎮 **Built with Unity** – Explored **game physics, UI/UX design, and game mechanics**.  
+- 💡 **Learning Experience** – Gained hands-on experience in **C# programming, optimization, and game logic**.  
 
-Check Out Gameplay/footage of the app here:
-https://drive.google.com/drive/folders/1rJDTjPFB3gSHb1wzpDX2X_Ba1yVx1m7D?usp=sharing
+## 🎥 Gameplay Footage  
+📹 Check out **gameplay footage and archived content** here:  
+🔗 [**Watch Gameplay on Google Drive**](https://drive.google.com/drive/folders/1rJDTjPFB3gSHb1wzpDX2X_Ba1yVx1m7D?usp=sharing)  
+
+---
